@@ -6,7 +6,7 @@ Click on a card to expand it and showcase **beautiful interior design images** w
 ---
 
 ## 🚀 Demo
-👉 [Live Demo](https://yourusername.github.io/expanding-cards/)  
+👉 [Live Demo](https://vighnesh204.github.io/interior-design-gallery/)  
 
 ---
 
